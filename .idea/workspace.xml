@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd2f55fd-7023-4ad0-9f08-6cd2f55925e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/components/Loading.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Weather.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ButtonComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Loading.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Loading.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Weather.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Weather.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +58,8 @@
       <option name="presentableId" value="Default" />
       <updated>1617883940543</updated>
       <workItem from="1618147166504" duration="19355000" />
+      <workItem from="1618207675468" duration="947000" />
+      <workItem from="1618216281213" duration="9857000" />
     </task>
     <servers />
   </component>
@@ -74,6 +76,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="66" y="175" key="SettingsEditor" timestamp="1617884068107">

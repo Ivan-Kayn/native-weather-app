@@ -1,5 +1,5 @@
 import React from 'react';
-import {StyleSheet, Text, View, StatusBar, ActivityIndicator} from 'react-native';
+import {StyleSheet, StatusBar, ActivityIndicator} from 'react-native';
 import {LinearGradient} from "expo-linear-gradient";
 
 
@@ -18,8 +18,6 @@ const styles = StyleSheet.create({
         justifyContent: "center"
     },
     horizontal: {
-        flexDirection: "row",
-        justifyContent: "space-around",
         padding: 10
     },
     text: {
